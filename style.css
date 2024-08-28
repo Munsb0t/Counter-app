@@ -1,0 +1,36 @@
+body
+{
+    background-color:rgb(183, 230, 169) ;
+}
+
+.number
+{
+    font-size: 98px;
+    color: rgb(224, 53, 82)
+}
+
+button
+{
+    font-size: 4rem;
+    background-color: rgb(255, 221, 226);
+    border: none;
+    color: rgb(224, 53, 82);
+    cursor: pointer;
+   
+}
+
+.btn
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+   
+}
+
+.head
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
